@@ -1,8 +1,5 @@
 # MIML Project - Machine Learning in Materials Informatics
 
-## Overview
-This project applies machine learning techniques to materials science data analysis. Developed during internship at Bhabha Atomic Research Centre (BARC), this work explores predictive modeling for material properties.
-
 ## Project Structure
 
 ### Dataset
