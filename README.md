@@ -50,9 +50,3 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 # Run the visualization code
 python Graph_code.py
 ```
-
-## Author
-Developed during research internship at Bhabha Atomic Research Centre (BARC)
-
-## Acknowledgments
-Bhabha Atomic Research Centre (BARC) for providing the opportunity and resources for this research project.
