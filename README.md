@@ -1,3 +1,4 @@
+Checked
 # MIML Project - Machine Learning in Materials Informatics
 Name: K. Maneesh	
 RollNo.: 22MMB0A37
