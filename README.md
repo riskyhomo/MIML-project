@@ -1,4 +1,10 @@
 # MIML Project - Machine Learning in Materials Informatics
+Name: K. Maneesh	
+RollNo.: 22MMB0A37
+Name: Hanzla Ejazi
+Roll No.: 22MMB0A46
+Name: Sai Vinayak
+Roll No.: 22MMB0A47
 
 ## Project Structure
 
